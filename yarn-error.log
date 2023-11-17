@@ -1,0 +1,37 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\WRLD\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add mysql2 --save
+
+PATH: 
+  C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\dotnet\;C:\Users\WRLD\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\php;C:\Program Files\Go\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\WRLD\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\WRLD\AppData\Local\Programs\Python\Python310\;C:\Users\WRLD\AppData\Local\Microsoft\WindowsApps;C:\Users\WRLD\.dotnet\tools;C:\Users\WRLD\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\WRLD\AppData\Roaming\npm;C:\Users\WRLD\AppData\Local\GitHubDesktop\bin;C:\Users\WRLD\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\php;C:\dev\flutter\bin;C:\Users\WRLD\go\bin;C:\Users\WRLD\AppData\Local\gitkraken\bin;C:\Users\WRLD\go\bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.12.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+
+npm manifest: 
+  {
+    "name": "with-sql-prj",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
